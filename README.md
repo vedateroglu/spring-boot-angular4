@@ -3,7 +3,7 @@
 A starter project for prototyping restful applications with Spring Boot and Angular 4.
 
 # Install
-git clone https://github.com/vedateroglu/spring-boot-angular4.git
+$ git clone https://github.com/vedateroglu/spring-boot-angular4.git
 
 # Build & Run
 
